@@ -1,0 +1,9 @@
+2020-07-08 23:29:19,903 - DEBUG - module __main__ executed, took 7.760650193 seconds
+2020-07-08 23:36:08,148 - DEBUG - Using selector: KqueueSelector
+2020-07-08 23:36:15,961 - DEBUG - module __main__ executed, took 7.768488862 seconds
+2020-07-08 23:37:44,909 - DEBUG - Using selector: KqueueSelector
+2020-07-08 23:37:52,799 - DEBUG - module __main__ executed, took 7.891596529000001 seconds
+2020-07-08 23:38:53,461 - DEBUG - module __main__ executed, took 7.90543123 seconds
+2020-07-08 23:39:19,624 - DEBUG - module __main__ executed, took 9.24409207 seconds
+2020-07-08 23:39:36,634 - DEBUG - module __main__ executed, took 8.584561410000001 seconds
+2020-07-08 23:39:59,629 - DEBUG - module __main__ executed, took 7.935924162000001 seconds
